@@ -9,7 +9,7 @@
 - Introduction to Algorithms and Data 
 - Object-oriented programming
 - Databases
-- Software Development
+- [Software Development](https://github.com/mirkataa/IT_Career/tree/main/07.%20Software%20Development)
 - OS and Embedded OS Intro
 - Internship
 - Algorithms and Data Structures
