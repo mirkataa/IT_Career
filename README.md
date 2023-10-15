@@ -12,7 +12,7 @@
 - [Software Development](https://github.com/mirkataa/IT_Career/tree/main/07.%20Software%20Development)
 - OS and Embedded OS Intro
 - Internship
-- Algorithms and Data Structures
+- [Algorithms and Data Structures](https://github.com/mirkataa/IT_Career/tree/main/10.%20Algorithms%20and%20Data%20Structures)
 - Functional Programming
 - Internet Programming
 - Software Engineering
