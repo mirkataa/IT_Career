@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elements", "Elements\Elements.csproj", "{72F6595A-F222-4C63-B202-1CA20E613C8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityTrade", "CityTrade\CityTrade.csproj", "{B565B23E-18DC-4C93-AAAD-A976E7849FC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72F6595A-F222-4C63-B202-1CA20E613C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F6595A-F222-4C63-B202-1CA20E613C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F6595A-F222-4C63-B202-1CA20E613C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F6595A-F222-4C63-B202-1CA20E613C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B565B23E-18DC-4C93-AAAD-A976E7849FC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B565B23E-18DC-4C93-AAAD-A976E7849FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B565B23E-18DC-4C93-AAAD-A976E7849FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B565B23E-18DC-4C93-AAAD-A976E7849FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF70BAC-368B-49DE-B87E-E3C007C485B0}
+	EndGlobalSection
+EndGlobal
