@@ -13,6 +13,6 @@
 - OS and Embedded OS Intro
 - Internship
 - [Algorithms and Data Structures](https://github.com/mirkataa/IT_Career/tree/main/10.%20Algorithms%20and%20Data%20Structures)
-- Functional Programming
+- [Functional Programming](https://github.com/mirkataa/IT_Career/tree/main/11.%20Functional%20Programming)
 - Internet Programming
 - Software Engineering
